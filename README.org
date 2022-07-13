@@ -23,9 +23,12 @@ https://discourse.juliacn.com/t/topic/6428
 5. [[file:./src/graphalgorithm][图算法]]
 6. [[file:./src/geometric][几何算法]]
 ** 排序和搜索
-*** DONE [[file:./src/sortsearch/insertsort.jl][插入序排]]
-*** DONE [[file:./src/sortsearch/quicksort.jl][快速排序]]
-*** DONE [[file:./src/sortsearch/mergesort.jl][归并排序]]
+- [X] [[file:./src/sortsearch/insertsort.jl][插入序排]]
+- [X] [[file:./src/sortsearch/quicksort.jl][快速排序]]
+- [X] [[file:./src/sortsearch/mergesort.jl][归并排序]]
+- [X] [[file:./src/sortsearch/countsearch.jl][计数排序]]
+- [ ] [[file:./src/sortsearch/radixsort.jl][基数排序]]
+- [X] [[file:./src/sortsearch/binarysearch.jl][二分查找]]
 
 ** 应用实例
 *** TODO 快速排序例子: 目录列表
