@@ -1,4 +1,20 @@
 * Mastering Algorithms with Julia
+** 如何贡献代码
+首先在Project板块中选取板块，写上自己负责的任务
+接下来负责那个模块，编写代码即可
+
+请选取一部分相关内容，比如在 *排序和搜索* 中，有
+- 插入排序
+- 快速排序
+- 归并排序
+- 计数排序
+- 基数排序
+- 二分查找
+
+接下来仿照 Project 中的内容来写任务即可
+语文不好，大家还是看这个怎么做吧
+https://discourse.juliacn.com/t/topic/6428
+*另外 README 由我来编写，当然了，要是你也会写 org-mode，你也可以来编写*
 ** Structure
 1. [[file:./src/sortsearch][排序和搜索]]
 2. [[file:./src/numerical][数值计算]]
@@ -6,3 +22,10 @@
 4. [[file:./src/encryptioin][数据加密]]
 5. [[file:./src/graphalgorithm][图算法]]
 6. [[file:./src/geometric][几何算法]]
+** 排序和搜索
+*** DONE [[file:./src/sortsearch/insertsort.jl][插入序排]]
+*** DONE [[file:./src/sortsearch/quicksort.jl][快速排序]]
+*** DONE [[file:./src/sortsearch/mergesort.jl][归并排序]]
+
+** 应用实例
+*** TODO 快速排序例子: 目录列表
