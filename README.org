@@ -1,0 +1,8 @@
+* Mastering Algorithms with Julia
+** Structure
+1. [[file:./src/sortsearch][排序和搜索]]
+2. [[file:./src/numerical][数值计算]]
+3. [[file:./src/compression][数据压缩]]
+4. [[file:./src/encryptioin][数据加密]]
+5. [[file:./src/graphalgorithm][图算法]]
+6. [[file:./src/geometric][几何算法]]
